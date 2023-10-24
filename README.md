@@ -1,0 +1,1 @@
+# Shimmer Effect in Html and CSS only
